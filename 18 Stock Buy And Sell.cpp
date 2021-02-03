@@ -1,6 +1,3 @@
-https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1
-
-
 //Initial template for C++
 
 #include <bits/stdc++.h>
